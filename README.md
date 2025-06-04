@@ -7,7 +7,7 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=28&fontAlign=50&fontColor=fff" alt="Welcome Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=28&fontAlign=50&fontColor=fff" alt="Welcome Banner"/>
 </p>
 
 ---
