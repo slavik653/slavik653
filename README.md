@@ -82,14 +82,4 @@
 
 ---
 
-## 📬 Contact
-
-<p align="center">
-  <a href="mailto:slavikpastushok@gmail.com">
-    <img src="https://img.shields.io/badge/Email-slavikpastushok@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
-
----
-
 <p align="center"><i>“Let’s build the future with AI, one project at a time.”</i></p>
